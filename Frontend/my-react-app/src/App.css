@@ -1,0 +1,41 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.documentReport {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+
+
+.chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350;
+  padding: 4;
+  /* width: inherit; */
+}
+
+
+
+.heading {
+  font-size: 30px;
+  display: flex;
+  padding-bottom: 15px;
+  justify-content: space-between;
+}
+
+.calenders {
+  display: flex;
+  justify-content: end;
+}
+
+.calender {
+  margin: 6px;
+}
+
